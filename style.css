@@ -1,0 +1,858 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 3000px;
+}
+
+/* PAGE 1 */
+/* SECTION 1 */
+.navbar{
+    display: flex;
+    height: 50px;
+}
+
+.navbar-list {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-item {
+    margin: 0 15px;
+}
+
+.navbar-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+
+h5.title {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.social-links-header a{
+    padding: 0px 9px;
+    color: #000;
+    font-size: 21px;
+}
+
+/* SECTION 2 */
+.card-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.slider-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* SECTION 3 */
+.product-text{
+    display: flex;
+    justify-content: center;
+}
+
+.product-name{
+    font-size: 28px;
+}
+
+img.card-img.images-homepage {
+    position: relative;
+}
+
+.next-button-first-image.md.hydrated{
+    position: absolute;
+    color: #000;
+    background-color: #fff;
+    font-size: 39px;
+    border-radius: 47%;
+    top: 91%;
+    left: 91%;
+}
+
+.next-button.md.hydrated {
+    position: absolute;
+    color: #000;
+    background-color: #fff;
+    font-size: 39px;
+    border-radius: 47%;
+    top: 83%;
+    left: 81%;
+}
+
+.next-button-last-image.md.hydrated {
+    position: absolute;
+    color: #000;
+    background-color: #fff;
+    font-size: 39px;
+    border-radius: 47%;
+    top: 90%;
+    left: 81%;
+}
+
+/* SECTION 4 */
+p.paragraph-of-page4 {
+    text-align: center;
+    margin: 0px 341px 0px 341px;
+    font-weight: 500;
+}
+
+.subtitle-of-page4{
+    text-align: center;
+}
+
+.navbar-of-page4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.navbar-list-page4{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-item-page4, .navbar-item-active-page4{
+    margin: 0 8px;
+}
+
+.navbar-item-active-page4 a{
+    color: #000;
+}
+.navbar-item-page4 a {
+    text-decoration: none;
+    color: #808080;
+}
+
+/* SECTION 6 */
+.subtitle-with-input-group{
+    height: 205px;
+    background-color: #ffd2c1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="email"] {
+    border: none;
+    height: 50px;
+    background-color: #f2f2f2;
+    font-size: 16px;
+    width: 25%;
+}
+
+/* SECTION 7 */
+.first-navbar-of-page7, .second-navbar-of-page7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-of-page7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.navbar-list-page7{
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar-item-page7, .second-navbar-item-page7{
+    margin: 10px 8px;
+}
+
+.navbar-item-page7 a{
+    text-decoration: none;
+    color: #000;
+}
+
+.second-navbar-item-page7 a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+/* SECTION 8 */
+section.page8{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* PAGE 2 */
+/* section 2 */
+.subtitle-page2{
+    background-color: #f2f2f2;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3.text-of-page2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img.card-img.product-images {
+    position: relative;
+}
+
+.icon-heart.md.hydrated {
+    background-color: #fff;
+    color: #000;
+    border-radius: 56%;
+    font-size: 30px;
+    position: absolute;
+    top: 84%;
+    left: 80%;
+}
+
+/* section 3 dropdown menu*/
+button#dropdownMenu2 {
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    height: 65px;
+}
+
+/* center button */
+.button-load-page6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button.btn.btn-dark.center-button {
+    border-radius: 60%;
+    inline-size: min-content;
+}
+
+/* section 4 eight-products */
+.product-name {
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
+p.price-of-products {
+    color: #666666;
+    text-align: center;
+}
+
+/* PAGE 3 */
+nav.navbar.nav-page3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paragraphs-of-page3 {
+    text-align: center;
+    margin: 0px 260px 0px 260px;
+}
+
+/* section 2 buttons */
+p.price-of-jeans {
+    font-size: 20px;
+}
+
+button.btn.btn-dark.add-button, button.btn.btn-light.add-button {
+    font-size: 24px;
+}
+
+p.first-paragraph-page3 {
+    font-size: 18px;
+}
+
+/* PAGE 4 */
+button.btn.btn-dark.checkout-button {
+    font-size: 23px;
+}
+
+.next-button-page4.md.hydrated {
+    position: absolute;
+    color: #fff;
+    background-color: #000;
+    font-size: 46px;
+    border-radius: 55%;
+    left: 23%;
+}
+
+/* PAGE 6 */
+.card-img-overlay.texts-of-page6 {
+    text-align: center;
+}
+
+button.btn.btn-dark.home-button-page6.mt-5 {
+    margin-top: 33% !important;
+    font-size: 24px;
+}
+
+p.card-text.sentence-page6{
+    font-size: 18px;
+}
+
+/* PAGE 7 */
+p.first-paragraph-page7 {
+    text-align: center;
+    font-weight: 500;
+    margin: 0px 324px;
+}
+
+.right-paragraphs, .left-paragraphs {
+    text-align: center;
+    font-weight: bold;
+    margin: 168px 0px;
+}
+
+/* PAGE 8 */
+p.card-text.title-card {
+    text-align: center;
+    color: #c4c4c4;
+}
+
+p.card-text {
+    font-weight: 500;
+    text-align: center;
+    margin: 4px;
+}
+
+.trio-cards {
+    height: 107px;
+    border: 2px solid;
+}
+
+p.card-text.text-card-page-8 {
+    margin: 0px;
+}
+
+iframe.map {
+    height: 500px;
+    width: 100%;
+}
+
+/* PAGE 9 */
+p.card-text.first-card-text {
+    text-align: inherit;
+}
+
+.plus-icon {
+    text-align: center;
+    font-size: 45px;
+}
+
+.icon-page9 {
+    background-color: #000;
+    color: #fff;
+    border-radius: 51%;
+    width: 43%;
+    height: 40px;
+}
+
+p.card-text.card-paragraph-page9 {
+    color: #888888;
+    padding: 0px 105px;
+    text-align: inherit;
+}
+
+
+/* MEDIA QUERIES 
+   PAGE 9        */
+
+@media only screen and (max-width: 912px) {
+    .icon-page9 {
+        width: 87%;
+        height: 33px;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .navbar-list.four-items-header {
+        display: initial;
+    }
+
+    .icon-page9 {
+        width: 103%;
+        height: 26px;
+    }
+
+}
+
+@media only screen and (max-width: 576px){
+    h3.text-of-page2 {
+        font-size: 18px;
+    }
+
+    .icon-page9 {
+        width: 6%;
+        height: 33px;
+    }
+
+    p.card-text.first-card-text {
+        text-align: center;
+    }
+
+    .navbar-item a {
+        font-size: 12px;
+    }
+
+    h5.title {
+        font-size: 17px;
+    }
+
+    .social-links-header a {
+        font-size: 14px;
+    }
+
+}
+
+@media only screen and (max-width: 540px){
+    .icon-page9 {
+        height: 26px;
+    }
+
+    p.card-text.first-card-text {
+        font-size: 13px;
+    }
+
+    p.card-text.card-paragraph-page9 {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    .navbar-of-page7 {
+        font-size: 12px;
+        height: 38px;
+    }
+
+}
+
+@media only screen and (max-width: 393px){
+    .navbar {
+        font-size: 11px;
+    }
+}
+
+
+/* MEDIA QUERIES 
+   PAGE 8        */
+
+@media only screen and (max-width: 992px) {
+    p.first-paragraph-page7 {
+        margin: 0px 24px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar-item {
+        display: initial;
+        font-size: 14px;
+    }
+
+    h5.title {
+        font-size: 23px;
+    }
+    
+    .social-links-header a {
+        padding: 0px 4px;
+        font-size: 17px;
+    }
+
+    p.first-paragraph-page7 {
+        font-size: 14px;
+        margin: 0px 12px;
+    }
+
+    p.card-text.title-card {
+        font-size: 13px;
+    }
+
+    p.card-text.text-card-page-8 {
+        font-size: 12px;
+    }
+
+    .card-text:last-child {
+        font-size: 13px;
+    }
+
+    .navbar-item-page7, .second-navbar-item-page7 {
+        margin: 0px 8px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 414px){
+    h5.title {
+        font-size: 19px;
+    }
+
+    p.first-paragraph-page7 {
+        font-size: 12px;
+        margin: 0px 7px;
+    }
+
+    .navbar-item-page7, .second-navbar-item-page7 {
+        margin: 0px 8px;
+        font-size: 12px;
+    }
+
+    .text-of-page8.mt-3 {
+        font-size: 13px;
+    }
+}
+
+/* MEDIA QUERIES 
+   PAGE 7       */
+@media only screen and (max-width: 1200px) {
+    p.first-paragraph-page7 {
+        margin: 0px 34px;
+    }
+
+    .left-image, .right-image{
+        width: 95%;
+    }
+
+    .right-paragraphs, .left-paragraphs {
+        margin: 110px 0px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    p.first-paragraph-page7 {
+        font-size: 14px;
+        margin: 0px 30px;
+    }
+
+    .right-paragraphs, .left-paragraphs {
+        margin: 32px 0px;
+        font-size: 12px;
+    }
+
+    h4.subtitle-of-page6 {
+        font-size: 18px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    p.first-paragraph-page7 {
+        font-size: 13px;
+        margin: 0px 24px;
+    }
+
+    .col-md-6.about-image {
+        display: flex;
+        justify-content: center;
+    }
+
+    .left-image, .right-image {
+        width: 60%;
+    }
+
+    .right-paragraphs, .left-paragraphs {
+        margin: 16px 0px;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 280px){
+    h3.text-of-page2 {
+        font-size: 16px;
+    }
+
+    p.first-paragraph-page7 {
+        font-size: 11px;
+        margin: 0px 6px;
+    }
+
+    .right-paragraphs, .left-paragraphs {
+        margin: 10px 0px;
+        font-size: 10px;
+    }
+}
+
+
+/* MEDIA QUERIES 
+   PAGE 6       */
+
+@media only screen and (max-width: 992px) {
+    nav.navbar.header {
+        font-size: 14px;
+    }
+
+    h5.title {
+        font-size: 21px;
+    }
+
+    .social-links-header a {
+        padding: 0px 4px;
+        font-size: 15px;
+    }
+
+    .card-title {
+        font-size: 19px;
+    }
+
+    p.card-text.sentence-page6 {
+        font-size: 14px;
+    }
+
+    button.btn.btn-dark.home-button-page6.mt-5 {
+        margin-top: 22% !important;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    h5.title {
+        font-size: 19px;
+    }
+
+    .card-title {
+        font-size: 17px;
+    }
+
+    p.card-text.sentence-page6 {
+        font-size: 12px;
+    }
+
+    button.btn.btn-dark.home-button-page6.mt-5 {
+        margin-top: 14% !important;
+        font-size: 12px;
+    }
+
+    .navbar-item-page7, .second-navbar-item-page7 {
+        margin: 0px 6px;
+        font-size: 12px;
+    }
+
+    .text-of-page8.mt-3 {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    h5.title {
+        font-size: 17px;
+    }
+
+    .card-title {
+        font-size: 15px;
+    }
+
+    p.card-text.sentence-page6 {
+        font-size: 11px;
+    }
+
+    button.btn.btn-dark.home-button-page6.mt-5 {
+        margin-top: 6% !important;
+        font-size: 9px;
+    }
+}
+
+
+@media only screen and (max-width: 347px) {
+    h5.title {
+        font-size: 15px;
+    }
+
+    .social-links-header a {
+        padding: 0px 4px;
+        font-size: 13px;
+    }
+
+    .navbar-item a {
+        font-size: 11px;
+    }
+
+    .card-title {
+        font-size: 14px;
+    }
+
+    button.btn.btn-dark.home-button-page6.mt-5 {
+        margin-top: 0% !important;
+        font-size: 7px;
+    }
+
+    .navbar-item-page7, .second-navbar-item-page7 {
+        margin: 0px 6px;
+        font-size: 11px;
+    }
+}
+
+
+@media only screen and (max-width: 316px) {
+    .card-title {
+        margin-top: -3%;
+        font-size: 14px;
+    }
+
+    p.card-text.sentence-page6 {
+        margin-top: 3% !important;
+        font-size: 10px;
+    }
+}
+
+
+/* MEDIA QUERIES 
+   PAGE 5       */
+@media only screen and (max-width: 770px) {
+    h3.text-of-page2 {
+        font-size: 20px;
+    }
+
+    .col-md-4.right-part-of-page-5 {
+        text-align: center;
+    }
+}
+
+
+/* MEDIA QUERIES 
+   PAGE 2       */
+@media only screen and (max-width: 816px) {
+    .product-name {
+        font-size: 15px;
+    }
+
+    p.price-of-products {
+        color: #666666;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    button#dropdownMenu2 {
+        width: 116%;
+        height: 48px;
+        font-size: 12px;
+    }
+
+    .product {
+        width: 14rem;
+    }
+
+    img.card-img.product-images {
+        width: 14rem;
+    }
+
+    h4.subtitle-of-page6 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    button.btn.btn-danger.subscribe-button {
+        font-size: 11px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    button#dropdownMenu2 {
+        width: 99%;
+    }
+
+    .col-md-3.col-sm-6 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    p.price-of-products {
+        font-size: 13px;
+    }
+
+    .product-name {
+        font-size: 14px;
+    }
+
+    button.btn.btn-dark.center-button {
+        font-size: 11px;
+    }
+
+    h4.subtitle-of-page6 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    button.btn.btn-danger.subscribe-button {
+        font-size: 9px;
+    }
+}
+
+/* MEDIA QUERIES 
+   PAGE 1       */
+@media only screen and (max-width: 1168px) {
+    p.paragraph-of-page4 {
+        margin: 0px 31px 0px 31px;
+    }
+
+    .card-title {
+        font-size: 16px;
+    }
+
+    button.btn.btn-light.shop-button-homepage {
+        font-size: 9px;
+    }
+
+    .next-button-first-image.md.hydrated, .next-button.md.hydrated,  .next-button-last-image.md.hydrated {
+        font-size: 29px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .next-button-first-image.md.hydrated, .next-button.md.hydrated,  .next-button-last-image.md.hydrated {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .next-button-first-image.md.hydrated, .next-button.md.hydrated,  .next-button-last-image.md.hydrated {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    p.paragraph-of-page4 {
+        margin: 0px 14px 0px 14px;
+        font-size: 13px;
+    }
+
+    .subtitle-of-page4 {
+        font-size: 19px;
+    }
+}
+
+
+.filter {
+    cursor: pointer;
+    border: none;
+    margin: 3px;
+    padding: 3px;
+    width: 75px;
+    background-color: white;
+  }
+
+.categories{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+  
+
